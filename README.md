@@ -1,2 +1,2 @@
-# School-Work
-AI projects during undergraduate school
+# AI-HW
+AI Homework/projects during undergraduate school
